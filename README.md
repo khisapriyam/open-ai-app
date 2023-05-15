@@ -1,3 +1,9 @@
+Use the following link to access the LIVE website
+https://open-ai-glsx02131-khisapriyam.vercel.app/
+
+About the Project-
+This react app is created by using the openAI api. The user can interact with the bot just like ChatGpt but with certain limitations.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
