@@ -2,7 +2,7 @@ const OpenAI = require('openai')
 const { Configuration, OpenAIApi } = OpenAI
 
 //making express server
-const dotenv = require('dotenv').config()
+require('dotenv').config()
 const express = require('express')
 const bodyParser = require('body-parser')
 const cors = require('cors')
@@ -14,6 +14,7 @@ const configuration = new Configuration({
     organization: "org-8px2neCCzaqt2H4B339qpY36",
     apiKey: process.env.API_KEY
 });
+
 const openai = new OpenAIApi(configuration);
 
 //exchanging data in server
