@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OpenAI-portfolio/static/css/main.cd3ebacb.css",
+    "main.js": "/OpenAI-portfolio/static/js/main.1adf40fe.js",
+    "index.html": "/OpenAI-portfolio/index.html",
+    "main.cd3ebacb.css.map": "/OpenAI-portfolio/static/css/main.cd3ebacb.css.map",
+    "main.1adf40fe.js.map": "/OpenAI-portfolio/static/js/main.1adf40fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3ebacb.css",
+    "static/js/main.1adf40fe.js"
+  ]
+}
